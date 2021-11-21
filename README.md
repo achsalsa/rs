@@ -1,7 +1,7 @@
 # Description du projet 
 Vous trouverez ci-joint deux fichiers Json, exportés depuis Omeka-s afin de service de template.
 
-### Un fichier Artist contenant les information suivante
+### Un fichier Artist contenant les informations suivantes:
 1. firstName
 2. familyName
 3. birthday
@@ -18,7 +18,7 @@ Vous trouverez ci-joint deux fichiers Json, exportés depuis Omeka-s afin de ser
 15. producer
 16. wikipedia
 
-### Un fichier Album contenant les information suivante
+### Un fichier Album contenant les informations suivantes:
 1. Title
 2. Description
 3. duration
