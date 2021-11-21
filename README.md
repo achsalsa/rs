@@ -1,8 +1,8 @@
 # Description du projet 
 Vous trouverez ci-joint deux fichiers Json, exportés depuis Omeka-s afin de service de template.
-  > A blockquote would look great below the second list item.
+  > le champ discography servira de collection à contenir des albums, et faire ainsi le lien entre la ressource template Artist et la ressource template Album
 
-### Un fichier Artist contenant les informations suivantes:
+### Un fichier Json Artist contenant les informations suivantes:
 1. firstName
 2. familyName
 3. birthday
@@ -19,7 +19,7 @@ Vous trouverez ci-joint deux fichiers Json, exportés depuis Omeka-s afin de ser
 15. producer
 16. wikipedia
 
-### Un fichier Album contenant les informations suivantes:
+### Un fichier Json Album contenant les informations suivantes:
 1. Title
 2. Description
 3. duration
