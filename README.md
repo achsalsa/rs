@@ -34,5 +34,8 @@ Vous trouverez ci-joint deux fichiers Json, exportés depuis Omeka-s afin de ser
 ## Lien API artiste
   > http://localhost:8888/omeka/api/items/9
 ceci est le lien vers l'item de l'artiste renaud dedans on peut trouver les informations classiques et la collection discographie contenant ses albums.
-## Lien API album "Amoureux de Paname" de renaud
+### Lien API album "Amoureux de Paname" de renaud
   > http://localhost:8888/omeka/api/items/14
+
+### Lien API album "laisse béton" de renaud
+  > http://localhost:8888/omeka/api/items/15
