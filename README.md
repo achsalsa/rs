@@ -8,8 +8,8 @@ ceci est le lien vers l'item de l'artiste renaud dedans on peut trouver les info
   > http://localhost:8888/omeka/api/items/15
 
 ### Lien API: Tous les items y compris les vins, et les evenements musicaux
-  > hhttp://localhost:8888/omeka/api/items
-
+  > http://localhost:8888/omeka/api/items
+ 
 # Description du projet 
 Vous trouverez ci-joint deux fichiers Json, exportés depuis Omeka-s afin de service de template.
   > le champ discography servira de collection à contenir des albums, et faire ainsi le lien entre la ressource template Artist et la ressource template Album
