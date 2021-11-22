@@ -15,19 +15,20 @@ Vous trouverez ci-joint deux fichiers Json, exportés depuis Omeka-s afin de ser
   > le champ discography servira de collection à contenir des albums, et faire ainsi le lien entre la ressource template Artist et la ressource template Album
 
 ### Un fichier Json Artist contenant les informations suivantes:
-1. firstName
-2. familyName
-3. birthday
-4. Description
-5. activity
-6. image
-7. genre
-8. Date Available
-9. discography
-10. instrument
-11. biography
-12. download
-13. group
+1. Title (nom de production de l'artiste)
+2. firstName
+3. familyName
+4. birthday
+5. Description
+6. activity
+7. image
+8. genre
+9. Date Available
+10. discography
+11. instrument
+12. biography
+13. download
+14. group
 15. producer
 16. wikipedia
 
